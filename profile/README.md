@@ -4,8 +4,8 @@ Wi2k is a small group of us that provides projects.
 ### Information:
 |Team Member|
 |---|
-|AbiusMatrix|
-|Vasync|
+|<a href="https://github.com/Vasync">Vasync</a>|
+|<a href="https://github.com/AbiusMatrix">AbiusMatrix</a>|
 <!--
 
 **Here are some ideas to get you started:**
